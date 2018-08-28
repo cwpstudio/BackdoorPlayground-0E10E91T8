@@ -13,7 +13,7 @@ body {
   margin: auto;
   position: relative;
   width: 1280px;
-  padding-top: 15%;
+  padding-top: 5%;
 }
 
 #paper {
@@ -33,7 +33,7 @@ body {
   font-size: 60px;
   font-family: "Brush Script MT", "Zaph Chancery";
   color: black;
-  padding-top: 12%;
+  padding-top: 10%;
   padding-left: 2%;
 }
 
